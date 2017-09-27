@@ -2,7 +2,7 @@
 title: "Keystone effect on entry into two-sided markets: An analysis of the market entry of WiMAX"
 collection: publications
 permalink: /publication/2015-05-01-keystone-effect-entry-two-sided-markets
-excerpt: "<a href='/publication/2015-05-01-keystone-effect-entry-two-sided-markets'><img src='/images/keystone_effect_thumbnail_png.png' style='max-height:150px;'></a><br/><br/>We investigate a market entry scenario where a technologically-superior new platform may overcome its installed base disadvantage"
+excerpt: "<a href='/publication/2015-05-01-keystone-effect-entry-two-sided-markets'><img src='/images/keystone_effect_thumbnail_png.png' style='max-height:150px;'></a><br/><br/>We investigate a market entry scenario where a technologically-superior new platform may overcome its installed base disadvantage with the backing of a strong keystone species advantage within the business ecosystem, called keystone effect in this study, over an incumbent in a market that exhibits indirect network effects."
 date: 2015-07-01
 venue: 'Technological Forecasting and Social Change'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0040162514002789'
