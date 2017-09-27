@@ -179,6 +179,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  cases:
+    output: true
+    permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
