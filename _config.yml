@@ -215,9 +215,9 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: single
+      type: publications
     values:
-      layout: publications
+      layout: single
       author_profile: true
       share: true
       comments: true
