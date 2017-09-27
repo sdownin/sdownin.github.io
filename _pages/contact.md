@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-##### Email
+### Email
 [sdowning.bm02g@nctu.edu.tw](mailto:sdowning.bm02g@nctu.edu.tw "Email: sdowning.bm02g@nctu.edu.tw")
 
 
-#### Department Affiliation
+### Department Affiliation
 Institute of Business & Management    
 College of Management   
 National Chiao Tung University   
