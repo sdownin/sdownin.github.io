@@ -20,7 +20,7 @@ My research has involved myriad areas of strategic management, including platfor
 
 ![alt text](/images/clarabridge_net_time_slice_colored_dists_c42_s11.png "Competition Network Groups Over Time")
 
-My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with the theories from competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effect that changes in the competition network structure have upon strategic decisions, such as acquisition target selection and rivals' competitive (re)actions.
+My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with the theories from competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effects that changes in the competition network structure have upon strategic decisions, such as acquisition target selection and rivals' competitive (re)actions.
 
 
 Acknowledgements
