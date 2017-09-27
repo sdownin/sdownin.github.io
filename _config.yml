@@ -208,14 +208,14 @@ defaults:
       path: ""
       type: research
     values:
-      layout: research
+      layout: single
       author_profile: true
       share: true
       comments: true
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: single
     values:
       layout: publications
       author_profile: true
@@ -241,9 +241,9 @@ defaults:
   # _contact
   - scope:
       path: ""
-      type: pages
+      type: contact
     values:
-      layout: contact
+      layout: single
       author_profile: true
       share: true
       comment: true
