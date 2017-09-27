@@ -16,14 +16,14 @@ Stephen Downing
 
 Education
 ======
-- **PhD** | National Chiao Tung University (Taipei, Taiwan)					2017 (expected) 
+- **PhD**  National Chiao Tung University (Taipei, Taiwan)					2017 (expected) 
   - Concentration: Decision Sciences  (3.94 GPA after 47 credit hrs)
   - Research foci: strategic management, social and inter-organizational networks, competitive dynamics, platform competition, corporate social responsibility (CSR)
   - Dissertation:  “Beyond Rivalry:  Competitive dynamics and competition networks”
   - Adviser:  Assoc. Prof. Jin-Su Kang
-- **MBA** | National Chiao Tung University (Hsinchu, Taiwan)				2012 
+- **MBA**  National Chiao Tung University (Hsinchu, Taiwan)				2012 
   - Concentration:  Global Business Management
-- **BA**  |  Tulane University (New Orleans, LA, USA)						2008 
+- **BA**    Tulane University (New Orleans, LA, USA)						2008 
   - Majors:  International Relations, Philosophy;  magna cum laude, departmental honors
 
 
@@ -70,27 +70,27 @@ Grants & Awards
 
 Professional Experience
 ======
-- **Data Science Lead & Co-Founder** | Choco.ly  (a startup CEM SaaS platform)		2015 - Pres
+- **Data Science Lead & Co-Founder**  Choco.ly  (a startup CEM SaaS platform)		2015 - Pres
   - Designed and implemented analytics suite
   - Collaborated in frontend and backend web development 
   - Oversaw market research and go-to-market strategy for product roll out
-- **BDM & Co-Founder** | Choco Design  (a startup digital design agency)			2014 - 2015
+- **BDM & Co-Founder**  Choco Design  (a startup digital design agency)			2014 - 2015
   - Handled new account development, negotiations, and brand strategy
-- **Sales Account Manager** | ACTi Corporation 						2012 - 2013
+- **Sales Account Manager**  ACTi Corporation 						2012 - 2013
   - Managed sales functions of an international territory
   - Nurtured key profile accounts to accelerate growth while minimizing channel cannibalization
-- **Marketing Intern** | PPG Industries 							2011
+- **Marketing Intern**  PPG Industries 							2011
   - Completed analysis of Chinese fiberglass export data to inform APAC market development initiatives in conjunction with the Pittsburgh Formosa Group joint venture
-- **Financial Management Consulting Intern** | Public Financial Management 		2007
+- **Financial Management Consulting Intern**  Public Financial Management 		2007
   - Drafted budgeting for outcomes and best practices recommendations for City of New Orleans revenue structure and generation
   - FY2008 budget results: Cut expenditures by $8.1 million and eliminated $48 million in unnecessary funding requests
 
 
 Teaching Experience
 ======
- - Teaching Assistant | National Chiao Tung University					2011
+ - Teaching Assistant  National Chiao Tung University					2011
  - Microeconomics for Business, NCTU Global MBA program, spring 2011 semester
- - ESL Teacher |  Hess International Educational Group					2009 - 2010
+ - ESL Teacher   Hess International Educational Group					2009 - 2010
  - - Various English as a second language courses taught for elementary, middle, and high school learners
 
 
