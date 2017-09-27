@@ -10,11 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Stephen Downing
-======
-- NCTU Inst. of Business & Mgmt.,  No.118, Sec. 1, Jhongsiao W. Rd., Jhongjheng Dist., Taipei City 100-44, Taiwan (R.O.C.)
-- sdowning.bm02g@nctu.edu.tw 
-
 Education
 ======
 - **PhD**  National Chiao Tung University (Taipei, Taiwan)					2017 (expected) 
