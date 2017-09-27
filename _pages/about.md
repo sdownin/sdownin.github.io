@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Stephen Downing"
+title: ""
 excerpt: "Ph.D. candidate in decision sciences"
 author_profile: true
 redirect_from: 
