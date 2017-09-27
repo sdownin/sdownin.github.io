@@ -208,7 +208,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
+      layout: research
       author_profile: true
       share: true
       comments: true
@@ -217,7 +217,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publications
       author_profile: true
       share: true
       comments: true
