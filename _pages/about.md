@@ -16,7 +16,7 @@ I am a Ph.D. candidate in decision sciences and a research assistant at the Nati
 
 Research
 ======
-My research has involved myriad areas of strategic management, including platform competition in business ecosystems and two-sided marktes, empirical and game-theoretic analysis of corporate social responsiblity, patent citation network analysis for knowledge base comparison, and inter-organizational network analysis for exploring the dynamcis of competition.
+My research has involved myriad areas of strategic management, including platform competition in business ecosystems and two-sided marktes, empirical and game-theoretic analysis of corporate social responsiblity, patent citation network analysis for knowledge base comparison, and inter-organizational network analysis for exploring the dynamics of competition.
 
 ![alt text](/images/clarabridge_net_time_slice_colored_dists_c42_s11.png "Competition Network Groups Over Time")
 
