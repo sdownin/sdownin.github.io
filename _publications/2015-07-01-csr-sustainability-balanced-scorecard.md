@@ -2,7 +2,7 @@
 title: "Corporate social responsibility and sustainability balanced scorecard: The case study of family-owned hotels"
 collection: publications
 permalink: /publication/2015-07-01-csr-sustainability-balanced-scorecard
-excerpt: "<a href='/publication/2015-07-01-csr-sustainability-balanced-scorecard'><img src='/images/csr_sustainability_balanced_scorecard_fig1_png.png' style='max-height:150px;'></a><br/><br/>This research aims to find empirical support for the benefits of Corporate Social Responsibility (CSR) to family-owned hotels"
+excerpt: "<a href='/publication/2015-07-01-csr-sustainability-balanced-scorecard'><img src='/images/csr_sustainability_balanced_scorecard_thumbnail_png.png' style='max-height:150px;'></a><br/><br/>This research aims to find empirical support for the benefits of Corporate Social Responsibility (CSR) to family-owned hotels"
 date: 2015-07-01
 venue: 'International Journal of Hospitality Management'
 paperurl: 'http://www.sciencedirect.com/science/article/pii/S0278431915000742'
