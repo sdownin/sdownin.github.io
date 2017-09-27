@@ -1,7 +1,7 @@
 ---
 title: "Competitive Dynamics: Of Whom Should You Be Aware?"
 collection: talks
-excerpt: "Competition network analysis for early awareness of emerging rivals.<br/><a href='/talks/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware'><img src='/images/AOM2017_cover_slide_png.png' style='max-height:250px;'></a>"
+excerpt: "<a href='/talks/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware'><img src='/images/AOM2017_cover_slide_png.png' style='max-height:250px;'></a><br/><br/>Competition network analysis for early awareness of emerging rivals."
 type: "Conference proceedings talk"
 permalink: /talks/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware
 venue: "77th Annual Academy of Management Conference"
