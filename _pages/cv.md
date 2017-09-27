@@ -42,6 +42,7 @@ Research & Publications
   
 **Business Cases**
  - Kang. J.-S., and Downing, S. (2015). “Cconma.com in South Korea: An innovative e-commerce platform”. Ivey ID: 9B15M020. Ivey Publishing. https://www.iveycases.com/ProductView.aspx?id=70598
+ 
 **Working Papers & Current Research**
  - Downing, S. and Kang, J.-S. “Corporate Social Responsibility Market Signaling: CSR as a Strategic Response.” (A game-theoretic analysis of the conditions under which strategic CSR and traditional CFP objectives align when accounting for the interaction of network effects with uncertainty in stakeholder willingness-to-pay.  To be submitted to Management Science, 2017.)
  - Downing, S. Kang, J.-S., and Markman, G. “Competitive Dynamics: Of whom should you be aware?” (A longitudinal study of the determinants of competition network structure and early awareness of rivalry formation. Hypotheses are tested using B2B software industry competitive relations data.  Submitted to the 77th Academy of Management Conference, Atlanta, 2017.)
