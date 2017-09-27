@@ -222,6 +222,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _cases
+  - scope:
+      path: ""
+      type: cases
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
