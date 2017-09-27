@@ -18,7 +18,7 @@ Research
 ======
 My research has involved myriad areas of strategic management, including platform competition in business ecosystems and two-sided marktes, empirical and game-theoretic analysis of corporate social responsiblity, patent citation network analysis for knowledge base comparison, and inter-organizational network analysis for exploring the dynamcis of competition.
 
-![alt text](https://github.com/sdownin/sdownin.github.io/images/clarabridge_net_time_slice_colored_dists_c42_s11.png "Competition Network Groups Over Time")
+![alt text](images/clarabridge_net_time_slice_colored_dists_c42_s11.png "Competition Network Groups Over Time")
 My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with the theories from competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effect that changes in the competition network structure have upon strategic decisions, such as acquisition target selection and rivals' competitive (re)actions.
 
 
