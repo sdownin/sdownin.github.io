@@ -91,7 +91,7 @@ Teaching Experience
  - Teaching Assistant  National Chiao Tung University					2011
  - Microeconomics for Business, NCTU Global MBA program, spring 2011 semester
  - ESL Teacher   Hess International Educational Group					2009 - 2010
- - - Various English as a second language courses taught for elementary, middle, and high school learners
+    - Various English as a second language courses taught for elementary, middle, and high school learners
 
 
 Affiliations
