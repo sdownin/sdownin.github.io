@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ===
 
-I am a Ph.D. candidate in decision sciences and research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
+I am a Ph.D. candidate in decision sciences and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
 
 
 Research
