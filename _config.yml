@@ -9,13 +9,13 @@
 locale                   : "en-US"
 title                    : "Stephen Downing"
 title_separator          : "-"
-name                     : &name "Stephen Downing / Ph.D. Candidate"
-description              : &description "Strategic Management, Network Analysis, Competitive Dynamics, CSR"
+name                     : &name "Stephen Downing"
+description              : &description "Strategic Management Research"
 url                      : https://sdownin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sdownin/sdownin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 comments:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -79,10 +79,10 @@ analytics:
 # Site Author
 author:
   name             : "Stephen Downing"
-  avatar           : "StephenDowningProfile.png"
+  avatar           : "StephenDowningProfile.jpg"
   bio              : "Ph.D. Candidate | Strategic Management, Network Analysis, Competitive Dynamics, Platform Competition, CSR"
-  location         : "Taipei"
-  employer         : "National Chiao Tung University"
+  location         : "[Taipei](https://goo.gl/maps/boUeUMJcJsK2)"
+  employer         : 
   googlescholar    : "https://scholar.google.com.tw/citations?user=58xlDS0AAAAJ&hl=en"
   email            : "sdowning.bm02g@nctu.edu.tw"
   uri              :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/stephendowningmba/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-3242-4532"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
