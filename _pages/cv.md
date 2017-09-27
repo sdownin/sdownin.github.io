@@ -17,14 +17,14 @@ sdowning.bm02g@nctu.edu.tw
 Education
 ======
 - **PhD** | National Chiao Tung University (Taipei, Taiwan)					2017 (expected) 
-- - Concentration: Decision Sciences  (3.94 GPA after 47 credit hrs)
-- - Research foci: strategic management, social and inter-organizational networks, competitive dynamics, platform competition, corporate social responsibility (CSR)
-- - Dissertation:  “Beyond Rivalry:  Competitive dynamics and competition networks”
-- - Adviser:  Assoc. Prof. Jin-Su Kang
+  > Concentration: Decision Sciences  (3.94 GPA after 47 credit hrs)
+  > Research foci: strategic management, social and inter-organizational networks, competitive dynamics, platform competition, corporate social responsibility (CSR)
+  > Dissertation:  “Beyond Rivalry:  Competitive dynamics and competition networks”
+  > Adviser:  Assoc. Prof. Jin-Su Kang
 - **MBA** | National Chiao Tung University (Hsinchu, Taiwan)				2012 
-- - Concentration:  Global Business Management
+  > Concentration:  Global Business Management
 - **BA**  |  Tulane University (New Orleans, LA, USA)						2008 
-- - Majors:  International Relations, Philosophy;  magna cum laude, departmental honors
+  > Majors:  International Relations, Philosophy;  magna cum laude, departmental honors
 
 
 Research & Publications
