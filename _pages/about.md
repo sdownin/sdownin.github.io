@@ -11,12 +11,12 @@ redirect_from:
 Bio
 ===
 
-I am a Ph.D. candidate in decision sciences and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
+I am a Ph.D. candidate in strategic management and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
 
 
 Research
 ======
-I have had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided marktes, empirical and game-theoretic analysis of corporate social responsiblity, patent citation network analysis for knowledge base comparison, and inter-organizational network analysis for exploring the dynamics of competition.      
+I have had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided markets, empirical and game-theoretic analysis of corporate social responsiblity, patent citation network analysis for knowledge base comparison, and inter-organizational network analysis for exploring the dynamics of competition.      
 ![alt text](/images/clarabridge_net_time_slice_colored_dists_c42_s11.png "Competition Network Groups Over Time")       
 My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with theories from the competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effects that changes in the network structure have upon strategic decisions, such as product market entries, acquisition target selection, and rivals' reactions.
 
