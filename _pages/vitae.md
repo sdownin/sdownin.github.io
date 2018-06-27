@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Vitae"
+title: "Curriculum Vitae"
 permalink: /vitae/
 author_profile: true
 redirect_from:
   - /resume
   - /cv
+  - /vita
 ---
 
 {% include base_path %}
