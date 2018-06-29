@@ -18,6 +18,6 @@ The Awareness-Motivation-Capability (AMC) framework instructs firms to be aware 
 [<img src='/images/AOM2017_cover_slide_png.png' style="max-height:100px;">](/files/AOM_20170808_Downing_Kang_Markman_v2.pdf "Competitive Dynamics: Of Whom Should You Be Aware? Presentation Slides")
 
 ### Links
-* [Academy of Management Proceedings](http://proceedings.aom.org/content/2017/1/16381)
+* [Academy of Management Proceedings](https://journals.aom.org/doi/10.5465/ambpp.2017.16381abstract)
 
 
