@@ -26,14 +26,14 @@ My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm
 In the past, I have also had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided markets, empirical and game-theoretic analysis of corporate social responsibility, and patent citation network analysis for knowledge base comparison.      
 
 
-Acknowledgements
-======
-
-I am grateful to the Taiwanese Ministry of Science and Technology for their support: MOST-105-2420-H-009-012-DR and MOST-106-2922-I-009-127. 
-
-
 Awards
 ======
 
 Many thanks to the organizers and sponsors of the 11th Annual Topco Scientific Co. Thesis Symposium in Taiwan. I was honored, along with my adviser, to recieved the Best Ph.D. Thesis Award in 2018.         
 [<img src='/images/tsc_thesis_award.jpg' style="display: block; margin-left: auto; margin-right: auto;">](https://www.udn.com/news/story/7241/3292221 "Best Ph.D. Thesis Award Presentation")      
+
+
+Acknowledgements
+======
+
+I am grateful to the Taiwanese Ministry of Science and Technology for their support: MOST-105-2420-H-009-012-DR and MOST-106-2922-I-009-127. 
