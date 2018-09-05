@@ -35,5 +35,5 @@ I am grateful to the Taiwanese Ministry of Science and Technology for their supp
 Awards
 ======
 
-Many thanks to the organizers and sponsors of the 11th Annual Topco Scientific Corp. Thesis Symposium in Taiwan. I was honored, along with my adviser, to recieved the Best Ph.D. Thesis Award in 2018.         
+Many thanks to the organizers and sponsors of the 11th Annual Topco Scientific Co. Thesis Symposium in Taiwan. I was honored, along with my adviser, to recieved the Best Ph.D. Thesis Award in 2018.         
 [<img src='/images/tsc_thesis_award.jpg' style="display: block; margin-left: auto; margin-right: auto;">](https://www.udn.com/news/story/7241/3292221 "Best Ph.D. Thesis Award Presentation")      
