@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer-Reviewered Journal Publications"
+title: "Supplementary Code Excerpts and Explanations"
 permalink: /code/
 author_profile: true
 ---
