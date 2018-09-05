@@ -36,4 +36,4 @@ Awards
 ======
 
 Many thanks to the organizers and sponsors of the 11th Annual Topco Scientific Corp. Thesis Symposium in Taiwan. I was honored, along with my adviser, to recieved the Best Ph.D. Thesis Award in 2018.         
-[<img src='/images/tsc_thesis_award.jpg'>](https://www.udn.com/news/story/7241/3292221 "TSC Thesis Symposium Best Ph.D. Thesis Award Presentation")      
+[<img src='/images/tsc_thesis_award.jpg' style="width: 95%; margin-left: 2.5%; margin-right: 2.5%;">](https://www.udn.com/news/story/7241/3292221 "TSC Thesis Symposium Best Ph.D. Thesis Award Presentation")      
