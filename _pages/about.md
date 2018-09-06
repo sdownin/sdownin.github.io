@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "PhD candidate in decision sciences"
+excerpt: "Ph.D. candidate in decision sciences"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ===
 
-I am a PhD candidate in strategic management and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
+I am a Ph.D. candidate in strategic management and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
 
 
 Research
