@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Ph.D. candidate in decision sciences"
+excerpt: "Ph.D. candidate in strategic management"
 author_profile: true
 redirect_from: 
   - /about/
