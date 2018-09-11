@@ -2,7 +2,7 @@
 title: "Compnet Awareness Tutorial - Part 1"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-1
-excerpt: "Competition network analysis tutorial Part 1: Analyzing Existing Network Data Sample"   <br/><img src='/images/500x300.png'>
+excerpt: "Competition network analysis tutorial Part 1: Analyzing Existing Network Data Sample   <br/><img src='/images/500x300.png'>"
 ---
 
 
