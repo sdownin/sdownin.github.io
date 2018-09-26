@@ -2,7 +2,7 @@
 title: "Compnet Awareness Tutorial - Intro"
 collection: code
 permalink: /code/compnet-awareness-tutorial-intro
-excerpt: "Competition network analysis tutorial Part 1: Analyzing Existing Network Data Sample  <br/><img src='/images/500x300.png'>"
+excerpt: "Network Analysis Introduction  <br/><img src='/images/500x300.png'>"
 citation: 'Downing, S., Kang, J.-S., & Markman, G. (Under Review).'
 ---
 
