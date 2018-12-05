@@ -30,7 +30,7 @@ Awards
 ======
 
 Many thanks to the organizers and sponsors of the 11th Annual Topco Scientific Co. Thesis Symposium in Taiwan. I was honored, along with my adviser, to recieve the Best Ph.D. Thesis Award in 2018 for my submission and presentation entitled "How Far Is Far Enough To Be Aware? Competitive Embeddedness And Awareness Of Emerging Rivalry."      	   
-[<img src='/images/tsc_thesis_award.jpg' style="display: block; margin-left: auto; margin-right: auto; margin-top: 6px;">](https://www.udn.com/news/story/7241/3292221 "Best Ph.D. Thesis Award Presentation")                	
+[<img src='/images/tsc_thesis_award.jpg' style="display: block; margin-left: auto; margin-right: auto; margin-top: 6px;">](http://www.tmi.org.tw/2018/08/2018.html "Best Ph.D. Thesis Award Presentation")                	
 This was based upon research done in collaboration with Associate Professor Jin-Su Kang (National Chiao Tung University) and Professor Gideon Markman (Colorado State University).          	
 
 
