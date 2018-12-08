@@ -1220,3 +1220,5 @@ mcmc.diagnostics(fit0m@ergm)
 ```
 
 That concludes part 2.
+
+> [Back to Contents](#contents  "Back")
