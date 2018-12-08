@@ -7,9 +7,9 @@ excerpt: "Part 4: Computing Period Networks and Covariate Lists   <br/><img src=
 
 
 #### Contents
-- [Part 1: Analyzing Example Network Data Sample](/code/part-1-analyzing-example-network-data-sample  "Part 1")
-- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/part-2-goodness-of-fit-degeneracy-estimation-algorithm  "Part 2")
-- [Part 3: Adding and Cleaning New data](/code/part-3-adding-and-cleaning-new-data  "Part 3")
+- [Part 1: Analyzing Example Network Data Sample](/code/compnet-awareness-tutorial-part-1  "Part 1")
+- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
+- [Part 3: Adding and Cleaning New data](/code/compnet-awareness-tutorial-part-3 "Part 3")
 - Part 4: Computing Period Networks and Covariate Lists <br>(You are here.) 
 
 

@@ -7,10 +7,10 @@ excerpt: "Part 3: Adding and Cleaning New data   <br/><img src='/data/compnet-aw
 
 
 #### Contents
-- [Part 1: Analyzing Example Network Data Sample](/code/part-1-analyzing-example-network-data-sample  "Part 1")
-- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/part-2-goodness-of-fit-degeneracy-estimation-algorithm  "Part 2")
+- [Part 1: Analyzing Example Network Data Sample](/code/compnet-awareness-tutorial-part-1  "Part 1")
+- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
 - Part 3: Adding and Cleaning New data <br>(You are here.) 
-- [Part 4: Computing Period Networks and Covariate Lists](/code/part-4-computing-period-networks-and-covariate-lists  "Part 4")
+- [Part 4: Computing Period Networks and Covariate Lists](/code/compnet-awareness-tutorial-part-4  "Part 4")
 
 
 
