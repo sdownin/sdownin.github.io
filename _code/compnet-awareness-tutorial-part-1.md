@@ -5,9 +5,6 @@ permalink: /code/compnet-awareness-tutorial-part-1
 excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' height='200px' border='2'>"
 ---
 
-Competition Network Analysis
-=======
-
 Tutorial for computations used in Downing, Kang, & Markman (Under Review).
 
 #### Acknowledgement
