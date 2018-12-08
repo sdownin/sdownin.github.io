@@ -15,8 +15,6 @@ excerpt: "Part 4: Computing Period Networks and Covariate Lists   <br/><img src=
 
 # Part 4: Computing Period Networks and Covariate Lists
 
-> [Back to Contents](#contents  "Back")
-
 
 ```r
 ##===============================

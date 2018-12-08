@@ -16,10 +16,6 @@ excerpt: "Part 3: Adding and Cleaning New data   <br/><img src='/data/compnet-aw
 
 # Part 3: Adding and Cleaning New data
 
-> [Back to Contents](#contents  "Back")
-
-
-
 In this repository's `R` directory, download the R script `amj_run_TERGM_tutorial_3.R`. 
 
 Create a new folder in your `data_dir` and title it `owler_dir`. If you want to change the name of this new folder, then don't forget to update the `owler_data` variable in the `amj_run_TERGM_tutorial_3.R` script.

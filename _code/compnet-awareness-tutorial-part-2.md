@@ -15,8 +15,6 @@ excerpt: "Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm   <br/><img 
 
 # Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm
 
-> [Back to Contents](#contents  "Back")
-
 Continue using the R script `amj_run_TERGM_tutorial_1.R`. 
 
 #### Goodness of Fit (GOF)
