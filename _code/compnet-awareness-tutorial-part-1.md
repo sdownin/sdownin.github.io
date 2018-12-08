@@ -2,7 +2,7 @@
 title: "Competition Network Analysis Tutorial - Part 1"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-1
-excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><a href='/code/compnet-awareness-tutorial-part-1'><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' style='max-height:150px; border:0.5px solid gray'></a>"
+excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><a href='/code/compnet-awareness-tutorial-part-1'><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' style='max-height:150px; border:1px solid #d3d3d3'></a>"
 ---
 
 Tutorial for computations used in Downing, Kang, & Markman (Under Review).
