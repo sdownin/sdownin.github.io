@@ -2,7 +2,7 @@
 title: "Competition Network Analysis Tutorial - Part 4"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-4
-excerpt: "Part 4: Computing Period Networks and Covariate Lists   <br/><img src='/data/compnet-awareness-tutorial-part-3-thumbnail.png'>"
+excerpt: "Part 4: Computing Period Networks and Covariate Lists   <br/><a href='/code/compnet-awareness-tutorial-part-4'><img src='/data/compnet-awareness-tutorial-part-3-thumbnail.png' style='max-height:150px; border:2px solid black'></a>"
 ---
 
 
