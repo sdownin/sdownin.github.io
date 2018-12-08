@@ -2,7 +2,7 @@
 title: "Competition Network Analysis Tutorial - Part 3"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-3
-excerpt: "Part 3: Adding and Cleaning New data   <br/><img src='/data/compnet-awareness-tutorial-part-3-thumbnail.png' height='200px' border='2'>"
+excerpt: "Part 3: Adding and Cleaning New data   <br/><img src='/data/compnet-awareness-tutorial-part-3-thumbnail.png'>"
 ---
 
 
