@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Code Excerpts and Explanations"
+title: "Code Excerpts"
 permalink: /code/
 author_profile: true
 ---
