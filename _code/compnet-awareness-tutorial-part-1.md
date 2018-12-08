@@ -23,9 +23,9 @@ This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-
 
 #### Contents
 - Part 1: Analyzing Example Network Data Sample <br>(You are here.)
-- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](#part-2-goodness-of-fit-degeneracy-estimation-algorithm  "Part 2")
-- [Part 3: Adding and Cleaning New data](#part-3-adding-and-cleaning-new-data  "Part 3")
-- [Part 4: Computing Period Networks and Covariate Lists](#part-4-computing-period-networks-and-covariate-lists  "Part 4")
+- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/part-2-goodness-of-fit-degeneracy-estimation-algorithm  "Part 2")
+- [Part 3: Adding and Cleaning New data](/part-3-adding-and-cleaning-new-data  "Part 3")
+- [Part 4: Computing Period Networks and Covariate Lists](/part-4-computing-period-networks-and-covariate-lists  "Part 4")
 
 
 # Part 1: Analyzing Example Network Data Sample
