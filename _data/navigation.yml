@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Code"
-    url: /code/
-
   - title: "Talks"
     url: /talks/    
 
   - title: "Cases"
     url: /cases/
+
+  - title: "Code"
+    url: /code/
     
   - title: "Vita"
     url: /vita/
