@@ -5,7 +5,6 @@ permalink: /code/compnet-awareness-tutorial-part-1
 excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' height="200">"
 ---
 
-
 Competition Network Analysis
 =======
 
@@ -23,7 +22,7 @@ This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-
 - [Temporal ERGMs (TERGM) in R](https://www.jstatsoft.org/index.php/jss/article/view/v083i06/v83i06.pdf "download")
 
 #### Contents
-- Part 1: Analyzing Example Network Data Sample (You are here.)
+- Part 1: Analyzing Example Network Data Sample <br>(You are here.)
 - [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](#part-2-goodness-of-fit-degeneracy-estimation-algorithm  "Part 2")
 - [Part 3: Adding and Cleaning New data](#part-3-adding-and-cleaning-new-data  "Part 3")
 - [Part 4: Computing Period Networks and Covariate Lists](#part-4-computing-period-networks-and-covariate-lists  "Part 4")
