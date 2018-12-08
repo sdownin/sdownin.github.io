@@ -1,16 +1,26 @@
 ---
-title: "Compnet Awareness Tutorial - Part 1"
+title: "Competition Network Analysis Tutorial - Part 1"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-1
-excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><img src='/images/500x300.png'>"
+excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png'>"
 ---
 
 
-## Tutorial Parts
-- Part 1 (You are here.)
-- [Part 2](/code/compnet-awareness-tutorial-part-2 "Part 2")
-- [Part 3](/code/compnet-awareness-tutorial-part-3 "Part 3")
-- [Part 4](/code/compnet-awareness-tutorial-part-4 "Part 4")
+Competition Network Analysis
+=======
+
+Tutorial for computations used in Downing, Kang, & Markman (Under Review).
+
+#### Acknowledgement
+This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-2922-I-009-127.
+
+#### Info 
+- [Intro to Network Analysis in R](https://statnet.org/trac/raw-attachment/wiki/Resources/introToSNAinR_sunbelt_2012_tutorial.pdf  "link")    
+- [The R network Package](https://www.jstatsoft.org/index.php/jss/article/view/v024i02/v24i02.pdf  "download")    
+- [Intro to Exponential Random Graph Models (ERGM)](http://ranger.uta.edu/~chqding/cse5301/classPapers/ExponentialRandomGraph.pdf  "link")    
+- [Computing ERGMs in R](https://www.jstatsoft.org/index.php/jss/article/view/v024i03/v24i03.pdf  "download")
+- [Bootstrapped ERGMs for Big Networks in R](https://arxiv.org/pdf/1708.02598.pdf  "link")
+- [Temporal ERGMs (TERGM) in R](https://www.jstatsoft.org/index.php/jss/article/view/v083i06/v83i06.pdf "download")
 
 #### Contents
 - Part 1: Analyzing Example Network Data Sample (You are here.)

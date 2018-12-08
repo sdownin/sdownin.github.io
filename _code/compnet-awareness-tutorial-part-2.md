@@ -1,8 +1,8 @@
 ---
-title: "Compnet Awareness Tutorial - Part 1"
+title: "Competition Network Analysis Tutorial - Part 2"
 collection: code
-permalink: /code/compnet-awareness-tutorial-part-1
-excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><img src='/images/500x300.png'>"
+permalink: /code/compnet-awareness-tutorial-part-2
+excerpt: "Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm   <br/><img src='/data/amj_run_TERGM_tutorial_1_files/figure-html/gof_0_plot-1.png'>"
 ---
 
 
@@ -291,7 +291,7 @@ Plot GOF statistics for `m0`
 plot(gof0)
 ```
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/gof_0_plot-1.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/gof_0_plot-1.png)<!-- -->
 
 Now compare the GOF for `m1`
 
@@ -584,7 +584,7 @@ Plot GOF statistics for `m1`
 plot(gof1)
 ```
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/gof_1_plot-1.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/gof_1_plot-1.png)<!-- -->
 
 
 #### Degeneracy
@@ -697,9 +697,9 @@ par(mfrow=c(3,3))
 plot(degen0)
 ```
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-1.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-2.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-3.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-4.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-5.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-6.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-1.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-2.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-3.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-4.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-5.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-6.png)<!-- -->
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-7.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_0_plot-7.png)<!-- -->
 
 And check degeneracy for `m1`
 
@@ -956,9 +956,9 @@ par(mfrow=c(3,3))
 plot(degen1)
 ```
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-1.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-2.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-3.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-4.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-5.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-6.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-7.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-8.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-9.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-10.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-1.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-2.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-3.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-4.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-5.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-6.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-7.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-8.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-9.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-10.png)<!-- -->
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-11.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/degen_1_plot-11.png)<!-- -->
 
 
 #### Compare Estimation Algorithms: PMLE vs MCMCMLE
@@ -1220,7 +1220,7 @@ mcmc.diagnostics(fit0m@ergm)
 ## Warning in formals(fun): argument is not a function
 ```
 
-![](_data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-1.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-2.png)<!-- -->![](_data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-3.png)<!-- -->
+![](data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-1.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-2.png)<!-- -->![](data/amj_run_TERGM_tutorial_1_files/figure-html/mcmc_diag-3.png)<!-- -->
 
 ```
 ## 
