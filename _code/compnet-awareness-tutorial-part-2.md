@@ -2,7 +2,7 @@
 title: "Competition Network Analysis Tutorial - Part 2"
 collection: code
 permalink: /code/compnet-awareness-tutorial-part-2
-excerpt: "Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm   <br/><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' height='200px' border='2'>"
+excerpt: "Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm   <br/><div style='max-height:200px; border: 2px solid black'><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png'></div>"
 ---
 
 
