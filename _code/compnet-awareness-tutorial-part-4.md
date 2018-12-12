@@ -636,7 +636,7 @@ saveRDS(nets, file = file.rds)
 ```
 
 
-Next, in [Part 5](#part-5-analyzing-your-network-with-updated-data  "Part 5") recompute a TERGM with the udpated data you just computed.
+Next, in [Part 5](/code/compnet-awareness-tutorial-part-5  "Part 5") recompute a TERGM with the udpated data you just computed.
 
 
 > [Back to Contents](#contents  "Back")
