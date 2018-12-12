@@ -17,9 +17,6 @@ excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><a href='/code/c
 - [Part 5: Analyzing Your Network with Updated Data](/code/compnet-awareness-tutorial-part-5  "Part 5")
 
 
-### Tutorial for computations used in Downing, Kang, & Markman (Under Review).
-
-
 #### Acknowledgement
 This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-2922-I-009-127.
 
@@ -31,6 +28,7 @@ This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-
 - [Bootstrapped ERGMs for Big Networks in R](https://arxiv.org/pdf/1708.02598.pdf  "link")
 - [Temporal ERGMs (TERGM) in R](https://www.jstatsoft.org/index.php/jss/article/view/v083i06/v83i06.pdf "download")
 
+Tutorial for computations used in Downing, Kang, & Markman (Under Review).
 
 # Part 1: Analyzing Example Network Data Sample
 
