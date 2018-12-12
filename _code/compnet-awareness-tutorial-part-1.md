@@ -5,7 +5,20 @@ permalink: /code/compnet-awareness-tutorial-part-1
 excerpt: "Part 1: Analyzing Existing Network Data Sample   <br/><a href='/code/compnet-awareness-tutorial-part-1'><img src='/data/compnet-awareness-tutorial-part-1-thumbnail.png' style='max-height:150px; border:1px solid #d3d3d3'></a>"
 ---
 
-Tutorial for computations used in Downing, Kang, & Markman (Under Review).
+
+#### Code
+- [Github Project Repo](https://github.com/sdownin/compnet-awareness-tutorial  "Github Project Repo")
+
+#### Contents
+- Part 1: Analyzing Example Network Data Sample <br>(You are here.)
+- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
+- [Part 3: Adding and Cleaning New data](/code/compnet-awareness-tutorial-part-3  "Part 3")
+- [Part 4: Computing Period Networks and Covariate Lists](/code/compnet-awareness-tutorial-part-4  "Part 4")
+- [Part 5: Analyzing Your Network with Updated Data](/code/compnet-awareness-tutorial-part-5  "Part 5")
+
+
+### Tutorial for computations used in Downing, Kang, & Markman (Under Review).
+
 
 #### Acknowledgement
 This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-2922-I-009-127.
@@ -17,13 +30,6 @@ This research was supported in part by MOST-105-2420-H-009-012-DR and  MOST-106-
 - [Computing ERGMs in R](https://www.jstatsoft.org/index.php/jss/article/view/v024i03/v24i03.pdf  "download")
 - [Bootstrapped ERGMs for Big Networks in R](https://arxiv.org/pdf/1708.02598.pdf  "link")
 - [Temporal ERGMs (TERGM) in R](https://www.jstatsoft.org/index.php/jss/article/view/v083i06/v83i06.pdf "download")
-
-#### Contents
-- Part 1: Analyzing Example Network Data Sample <br>(You are here.)
-- [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
-- [Part 3: Adding and Cleaning New data](/code/compnet-awareness-tutorial-part-3  "Part 3")
-- [Part 4: Computing Period Networks and Covariate Lists](/code/compnet-awareness-tutorial-part-4  "Part 4")
-- [Part 5: Analyzing Your Network with Updated Data](/code/compnet-awareness-tutorial-part-5  "Part 5")
 
 
 # Part 1: Analyzing Example Network Data Sample

@@ -6,6 +6,9 @@ excerpt: "Part 5: Analyzing Your Network with Updated Data   <br/><a href='/code
 ---
 
 
+#### Code
+- [Github Project Repo](https://github.com/sdownin/compnet-awareness-tutorial  "Github Project Repo")
+
 #### Contents
 - [Part 1: Analyzing Example Network Data Sample](/code/compnet-awareness-tutorial-part-1  "Part 1")
 - [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
