@@ -11,7 +11,7 @@ excerpt: "Part 5: Computing Period Networks and Covariate Lists   <br/><a href='
 - [Part 2: Goodness of Fit, Degeneracy, Estimation Algorithm](/code/compnet-awareness-tutorial-part-2  "Part 2")
 - [Part 3: Adding and Cleaning New data](/code/compnet-awareness-tutorial-part-3 "Part 3")
 - [Part 4: Computing Period Networks and Covariate Lists](/code/compnet-awareness-tutorial-part-4  "Part 4")
-- [Part 5: Analyzing Your Network with Updated Data](/code/part-5-analyzing-your-network-with-updated-data  "Part 5")
+- Part 5: Analyzing Your Network with Updated Data  <br>(You are here.) 
 
 
 # Part 5: Analyzing Your Network with Updated Data
