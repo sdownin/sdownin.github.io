@@ -13,6 +13,8 @@ Bio
 
 I am a Ph.D. candidate in strategic management and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
 
+During 2019, I am honored to be a Visiting Research Scholar in Mays Business School at Texas A&M University in the spring, and in Gatton College of Business and Economics at the University of Kentucky in the fall.
+
 
 Research
 ======
