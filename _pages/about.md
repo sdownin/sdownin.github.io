@@ -21,7 +21,7 @@ Research
 
 My research focuses on the following areas:
 - Competitive dynamics, especially competitor identification and the implications of market entry and acquisitions
-- Interorganizational networks, exploring cross-industry encounters, multimarket interdependence, human capital flows structure, and the embeddedness of language in competition
+- Interorganizational networks, exploring cross-industry encounters, multimarket interdependence, and the embeddedness of language in competition
 
 My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with theories from the competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effects that changes in the network structure have upon strategic decisions, such as product market entries, acquisition target selection, and rivals' reactions.
 [<img src='/images/clarabridge_net_time_slice_colored_dists_c42_s11.png' style="display: block; margin-left: auto; margin-right: auto;">](/talks/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware  "Competition Network Groups Over Time")       
