@@ -182,10 +182,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  cases:
+  contact:
     output: true
     permalink: /:collection/:path/
-  contact:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -237,15 +237,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _cases
-  - scope:
-      path: ""
-      type: cases
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _talks
   - scope:
       path: ""
@@ -254,6 +245,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _vita
   - scope:
       path: ""
