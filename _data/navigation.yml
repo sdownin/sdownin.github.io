@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/ 
 
-  - title: "Cases"
-    url: /cases/
+  - title: "Teaching"
+    url: /teaching/   
 
   - title: "Code"
     url: /code/
@@ -32,3 +32,6 @@ main:
 #        
 #  - title: "Blog Posts"
 #    url: /year-archive/
+#
+#  - title: "Cases"
+#    url: /cases/

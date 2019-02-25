@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ongoing, Forthcoming, and Published Research"
+title: "Ongoing and Published Research"
 permalink: /research/
 author_profile: true
 ---
