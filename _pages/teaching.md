@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Cases and Course Materials"
+title: "Teaching Cases"
 permalink: /teaching/
 author_profile: true
 ---
