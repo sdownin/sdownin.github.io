@@ -5,7 +5,7 @@ permalink: /research/2019-05-26-What-You-Dont-See-Can-Hurt-You-Awareness-Cues-To
 excerpt: "<a href='/research/2019-05-26-What-You-Dont-See-Can-Hurt-You-Awareness-Cues-To-Profile-Indirect-Competitors'><img src='/images/Awareness_Cues_Fig3_Late_Period_png.png' style='max-height:150px;'></a><br/><br/> Multilevel hostility profile to identify which indirect competitors may become direct rivals."
 type: "Peer-Reviewed Publication"
 date: (Forthcoming)
-venue: 'Academy of Management Journal'
+venue: "Academy of Management Journal"
 ---
 
 <img src='/images/Awareness_Cues_Fig3_png.png' style="max-height:300px;">
