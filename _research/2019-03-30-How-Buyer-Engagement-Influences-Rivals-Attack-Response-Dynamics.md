@@ -1,7 +1,7 @@
 ---
 title: "How Buyer Engagement Influences Rivals' Attack-Response Dynamics"
 collection: research
-excerpt: "<a href='/research/2019-03-30-How-Buyer-Engagement-Influences-Rivals-Attack-Response-Dynamics'><img src='/images/simplified_buyer_engagement_game.png' style='max-height:150px;'></a><br/><br/>Game-theoretic analysis of the mediating role of buyer engagement on the cumulative threat faced by targets of competitive attacks in those targets' subsequent response/nonresponse decisions"
+excerpt: "<a href='/research/2019-03-30-How-Buyer-Engagement-Influences-Rivals-Attack-Response-Dynamics'><img src='/images/simplified_buyer_engagement_game.png' style='max-height:150px;'></a><br/><br/>Game-theoretic analysis of the mediating role of buyer engagement on the cumulative threat faced by targets of competitive attacks in those targets' subsequent response/nonresponse decisions."
 type: "Conference proceedings talk"
 permalink: /research/2019-03-30-How-Buyer-Engagement-Influences-Rivals-Attack-Response-Dynamics
 venue: "79th Annual Meeting of the Academy of Management"
