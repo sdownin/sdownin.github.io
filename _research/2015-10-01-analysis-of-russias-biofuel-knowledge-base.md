@@ -2,7 +2,7 @@
 title: "Analysis of Russia’s biofuel knowledge base: A comparison with Germany and China"
 collection: research
 permalink: /research/2015-10-01-analysis-of-russias-biofuel-knowledge-base
-excerpt: "<a href='/research/2015-10-01-analysis-of-russias-biofuel-knowledge-base'><img src='/images/analysis_of_russias_biofuel_knowledge_base_thumbnail_png.png' style='max-height:150px;'></a><br/><br/>This study assesses the evolutionary trajectory of the knowledge base of Russian biofuel technology compared to that of Germany and China."
+excerpt: "<a href='/research/2015-10-01-analysis-of-russias-biofuel-knowledge-base'><img src='/images/analysis_of_russias_biofuel_knowledge_base_thumbnail_png.png' style='max-height:150px;'></a><br/><br/> Assessesing the evolutionary trajectory of the knowledge base of Russian biofuel technology compared to that of Germany and China."
 type: "Peer-Reviewed Publication"
 date: 2015-10-01
 venue: 'Energy Policy'
