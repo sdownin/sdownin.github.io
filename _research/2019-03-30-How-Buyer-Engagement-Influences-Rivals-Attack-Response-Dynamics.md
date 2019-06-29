@@ -5,7 +5,7 @@ excerpt: "<a href='/research/2019-03-30-How-Buyer-Engagement-Influences-Rivals-A
 type: "Conference proceedings talk"
 permalink: /research/2019-03-30-How-Buyer-Engagement-Influences-Rivals-Attack-Response-Dynamics
 venue: "79th Annual Meeting of the Academy of Management"
-date: 2019-30-30
+date: 2019-03-30
 location: "Boston, MA"
 ---
 
