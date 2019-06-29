@@ -4,7 +4,7 @@ collection: research
 excerpt: "<a href='/research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware'><img src='/images/AOM2017_thumbnail_png.png' style='max-height:150px;'></a><br/><br/>Competition network analysis for early awareness of emerging rivals."
 type: "Conference proceedings talk"
 permalink: /research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware
-venue: "77th Annual Academy of Management Conference"
+venue: "77th Annual Meeting of the Academy of Management"
 date: 2017-08-08
 location: "Atlanta, GA"
 ---
