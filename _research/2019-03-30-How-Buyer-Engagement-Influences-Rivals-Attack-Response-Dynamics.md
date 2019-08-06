@@ -13,3 +13,9 @@ location: "Boston, MA"
 
 ### Abstract 
 Competitive dynamics (CD) research explains well why and how rivals attack each other, but it overlooks how buyer engagement influences attack-response dynamics.  Introducing a demand-side approach to CD research, this conceptual study evinces that buyer engagement subsequent to an attack and the response/nonresponse of targets are in fact quite interrelated; when attacks resonate with and harness strong buyer engagement, targets retaliate; when attacks leave buyers unaffected, targets remain unmoved.  To pressure-test the theoretical reasoning and to de-risk future empirical studies, we use a game theory model to estimate—quantitatively—the conceptual framework.  Our analytical simulations, even those incorporating more nuanced predictors including network externalities and expectations of the attack’s future impact over time, corroborate the robust role that buyer engagement plays in attacker-target relations.  It seems, then, that the inclusion of demand-side perspectives can greatly enhance the predictive utility of CD theory and research.  
+
+### Links
+* [Academy of Management Proceedings](https://journals.aom.org/doi/10.5465/AMBPP.2019.13037abstract)
+* [Strategic Management Society Session](https://www.strategicmanagement.net/minneapolis/tools/session-details?sessionId=1506)
+
+
