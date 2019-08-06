@@ -1,8 +1,8 @@
 ---
 title: "What You Don't See Can Hurt You: Awareness Cues To Profile Indirect Competitors"
 collection: research
-permalink: /research/2019-05-26-What-You-Dont-See-Can-Hurt-You-Awareness-Cues-To-Profile-Indirect-Competitors
-excerpt: "<a href='/research/2019-05-26-What-You-Dont-See-Can-Hurt-You-Awareness-Cues-To-Profile-Indirect-Competitors'><img src='/images/Awareness_Cues_Fig3_Late_Period_png.png' style='max-height:155px;'></a><br/><br/> Expanding awareness of potential competitive threats, we theorizing and analyzing a multilevel, relational hostility profile to identify which indirect competitors may become tomorrow's rivals."
+permalink: /research/2019-05-26-Awareness-Cues-To-Profile-Indirect-Competitors
+excerpt: "<a href='/research/2019-05-26-Awareness-Cues-To-Profile-Indirect-Competitors'><img src='/images/Awareness_Cues_Fig3_Late_Period_png.png' style='max-height:155px;'></a><br/><br/> Expanding awareness of potential competitive threats, we theorizing and analyzing a multilevel, relational hostility profile to identify which indirect competitors may become tomorrow's rivals."
 type: "Peer-Reviewed Publication"
 date: 2019-05-26
 venue: "Academy of Management Journal (forthcoming)"
