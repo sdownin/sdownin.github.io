@@ -15,5 +15,4 @@ The Awareness-Motivation-Capability (AMC) framework instructs firms to be aware 
 
 ### Links
 * [Academy of Management Journal Article](https://journals.aom.org/doi/10.5465/amj.2018.0048)
-* [Academy of Management Proceedings](https://journals.aom.org/doi/10.5465/ambpp.2017.16381abstract)
 * [Analysis and Code Tutorial](https://github.com/sdownin/awareness-cues-amj)
