@@ -23,7 +23,7 @@ My research explores how organizations understand and engage with their competit
 - *Networks* - adversarial and cooperative interorganizational ties, cross-industry interdependence
 - *Language* – natural language processing, discourse networks and content analysis of organizational texts
 
-Invovling the domains of management strategy and entrepreneurship, this work looks at influences of inter-organizational networks, technological change, and firm public language in the interactions among rivals and nonmarket organizations. 
+Involving the domains of management strategy and entrepreneurship, this work looks at influences of inter-organizational networks, technological change, and firm public language in the interactions among rivals and nonmarket organizations. 
 [<img src='/images/clarabridge_net_time_slice_colored_dists_c42_s11.png' style="display: block; margin-left: auto; margin-right: auto;">](/research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware  "Competition Network Groups Over Time")   
 
 In the past, I have also had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided markets, empirical and game-theoretic analysis of corporate social responsibility, and patent citation network analysis for knowledge base comparison.      
