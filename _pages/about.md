@@ -23,7 +23,7 @@ My research focuses on the following areas:
 - *Networks* - adversarial and cooperative interorganizational ties, cross-industry interdependence
 - *Language* – natural language processing, discourse networks and content analysis of organizational texts
 
-I study how organizations understand and engage with their competitive environment. Exploring the intersection of strategy and entrepreneurship, this incorporates the influences of inter-organizational networks, inter-industry convergence, and firm public language in the interactions among rivals and nonmarket organizations. 
+I study how organizations understand and engage with their competitive environment. Exploring the intersection of strategy and entrepreneurship, this incorporates the influences of inter-organizational networks, inter-industry convergence, technological change, and firm public language in the interactions among rivals and nonmarket organizations. 
 [<img src='/images/clarabridge_net_time_slice_colored_dists_c42_s11.png' style="display: block; margin-left: auto; margin-right: auto;">](/research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware  "Competition Network Groups Over Time")   
 
 In the past, I have also had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided markets, empirical and game-theoretic analysis of corporate social responsibility, and patent citation network analysis for knowledge base comparison.      
