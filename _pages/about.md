@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Ph.D. candidate in strategic management"
+excerpt: "Assistant Professor of Management"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,20 +11,28 @@ redirect_from:
 Bio
 ===
 
-I am a Ph.D. candidate in strategic management and a research assistant at the National Chiao Tung University Institute of Business and Management in Taipei, Taiwan. 
-
-During 2019, I am honored to be a Visiting Research Scholar in Mays Business School at Texas A&M University in the spring, and in Gatton College of Business and Economics at the University of Kentucky in the fall.
+I am an Assistant Professor of Management at Robert J. Trulaske, Sr. College of Business, University of Missouri. I received my Ph.D. from National Chiao Tung University, Taiwan, in the spring of 2020. During 2019, I was honored to be a visiting Ph.D. student at Mays Business School, Texas A&M University, and at Gatton College of Business and Economics, University of Kentucky. 
 
 
 Research
 ======
 
 My research focuses on the following areas:
-- Competitive dynamics, especially competitor identification and the implications of market entry and acquisitions
-- Interorganizational networks, exploring cross-industry encounters, multimarket interdependence, and the embeddedness of language in competition
+- *Competitive dynamics*, especially competitor identification, action repertoires, and multimarket contact
+- *Entrepreneurship*, 
+- *Interorganizational networks*, exploring adversarial and cooperative interorganizational ties and cross-industry interdependence
 
-My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigates inter-firm competition network dynamics. Combining network analysis methodologies with theories from the competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effects that changes in the network structure have upon strategic decisions, such as product market entries, acquisition target selection, and rivals' reactions.
-[<img src='/images/clarabridge_net_time_slice_colored_dists_c42_s11.png' style="display: block; margin-left: auto; margin-right: auto;">](/research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware  "Competition Network Groups Over Time")       
+Competitive Dynamics – especially competitor identification, action repertoires, and multimarket contact
+Entrepreneurship – including opportunity recognition and venture syndicate coopetition
+Networks – exploring adversarial and cooperative interorganizational ties and cross-industry interdependence
+Language – natural language processing, discourse networks, and content analysis of organizational texts
+
+
+I study how organizations understand and engage with their competitive environment. Exploring the intersection of strategy and entrepreneurship, this incorporates the influences of inter-organizational networks, inter-industry convergence, and firm public language in the interactions among rivals and nonmarket organizations. His work has been published in management and technology outlets including the Academy of Management Journal.  
+
+My dissertation, supervised by Assoc. Prof. Jin-Su Kang, investigated inter-firm competition network dynamics. Combining network analysis methodologies with theories from the competitive dynamics literature, I investigate the factors impacting competition formation, as well as the effects that changes in the network structure have upon strategic decisions, such as product market entries, acquisition target selection, and rivals' reactions.
+[<img src='/images/clarabridge_net_time_slice_colored_dists_c42_s11.png' style="display: block; margin-left: auto; margin-right: auto;">](/research/2017-08-08-Competitive-Dynamics-Of-Whom-Should-You-Be-Aware  "Competition Network Groups Over Time")   
+
 In the past, I have also had the opportunity to work on projects in myriad areas of strategic management, including platform competition in business ecosystems and two-sided markets, empirical and game-theoretic analysis of corporate social responsibility, and patent citation network analysis for knowledge base comparison.      
 
 
