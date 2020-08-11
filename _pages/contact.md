@@ -13,8 +13,8 @@ redirect_from:
 [sdowning@missouri.edu](mailto:sdowning@missouri.edu "Email: sdowning@missouri.edu")
 
 
-### Department Affiliation
-Robert J. Trulaske, Sr. College of Business 
-University of Missouri 
-700 Tiger Ave.
-Columbia, MO 65211 
+### Department Affiliation   
+Robert J. Trulaske, Sr. College of Business   
+University of Missouri   
+700 Tiger Ave.   
+Columbia, MO 65211   
