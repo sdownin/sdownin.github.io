@@ -11,7 +11,7 @@ redirect_from:
 Bio
 ===
 
-I am an Assistant Professor of Management at Robert J. Trulaske, Sr. College of Business, University of Missouri. I received my Ph.D. from National Chiao Tung University, Taiwan, in the spring of 2020. During 2019, I was honored to be a visiting Ph.D. student at Mays Business School, Texas A&M University, and at Gatton College of Business and Economics, University of Kentucky. 
+I am an Assistant Professor of Management at [Robert J. Trulaske, Sr. College of Business](https://business.missouri.edu/ "Trulaske College of Business"), University of Missouri. I received my Ph.D. from National Chiao Tung University, Taiwan, in the spring of 2020. During 2019, I was honored to be a visiting Ph.D. student at Mays Business School, Texas A&M University, and at Gatton College of Business and Economics, University of Kentucky. 
 
 
 Research
