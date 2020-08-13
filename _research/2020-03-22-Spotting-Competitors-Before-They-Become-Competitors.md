@@ -9,7 +9,7 @@ venue: "Academy of Management Insights"
 paperurl: 'https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary'
 ---
 
-<img src='/images/AOM_Insights_2020_jpg.jpg'>
+<img src='/images/AOM_Insights_2020_jpg.jpg' style="max-width: 500px;">
 
 ### Video
 
@@ -24,6 +24,3 @@ paperurl: 'https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary'
 
 ### Links
 * [Academy of Management Insights Article](https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary)
-
-
-{% include vimeoPlayer.html id="373259202" %}
