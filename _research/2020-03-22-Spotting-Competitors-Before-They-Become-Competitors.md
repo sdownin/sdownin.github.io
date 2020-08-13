@@ -11,7 +11,7 @@ paperurl: 'https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary'
 
 The advent of the automobile blindsided railroad companies. A century later, automakers weren’t expecting to compete with IT and battery companies. How can organizations spot future competitors before they become rivals?
 
-### Video
+### Video Introduction to Research Article
 
 [<img src='/images/AOM_Insights_2020_video_img_png.png' style='max-width: 500px;'>](https://vimeo.com/373259202 "Spotting Competitors Before They Become Competitors") 
 
