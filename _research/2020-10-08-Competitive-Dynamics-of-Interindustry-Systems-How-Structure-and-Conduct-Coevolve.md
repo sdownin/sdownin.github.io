@@ -1,7 +1,7 @@
 ---
 title: "Competitive Dynamics of Interindustry Systems: How Structure and Conduct Coevolve"
 collection: research
-excerpt: "<a href='/research/2020-10-08-Competitive-Dynamics-Of-Interindustry-Systems-How-Structure-And-Conduct-Coevolve'><img src='/images/AOM2020_thumbnail_png.png' style='max-height:150px;'></a><br/><br/> Theorizing and analyzing how firms manage the paradoxical tension of reducing rivalry while also identifying and exploiting new opportunities."
+excerpt: "<a href='/research/2020-10-08-Competitive-Dynamics-Of-Interindustry-Systems-How-Structure-And-Conduct-Coevolve'><img src='/images/AOM2020_thumbnail_png.png' style='max-height:150px;'></a><br/><br/> Conceptualizing the competitive ambidexterity exhibited by firms that manage the paradoxical tension of reducing rivalry while also identifying and exploiting new opportunities."
 type: "Conference proceedings talk"
 permalink: /research/2020-10-08-Competitive-Dynamics-Of-Interindustry-Systems-How-Structure-And-Conduct-Coevolve
 venue: "80th Annual Meeting of the Academy of Management"
