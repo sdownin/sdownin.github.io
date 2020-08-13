@@ -7,6 +7,7 @@ type: "Peer-Reviewed Publication"
 date: 2019-12-19
 venue: "Academy of Management Journal"
 paperurl: 'https://journals.aom.org/doi/10.5465/amj.2018.0048'
+citation: 'Downing, S. T., Kang, J-S, & Markman, G. D., (2019) &quot;What You Don’t See Can Hurt You: Awareness Cues to Profile Indirect Competitors&quot; <i>Academy of Management Journal</i>, 62(6): 1872–1900.'
 ---
 
 <img src='/images/Awareness_Cues_Fig3_png.png' style="max-height:450px;">
