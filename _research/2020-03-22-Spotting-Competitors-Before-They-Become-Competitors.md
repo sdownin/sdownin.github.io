@@ -9,11 +9,13 @@ venue: "Academy of Management Insights"
 paperurl: 'https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary'
 ---
 
-<img src='/images/AOM_Insights_2020_jpg.jpg' style="max-width: 500px;">
-
 ### Video
 
-[<img src='/images/AOM_Insights_2020_video_img_png.png' style='max-width: 350px;'>](https://vimeo.com/373259202 "Spotting Competitors Before They Become Competitors") 
+[<img src='/images/AOM_Insights_2020_video_img_png.png' style='max-width: 500px;'>](https://vimeo.com/373259202 "Spotting Competitors Before They Become Competitors") 
+
+### Infographic
+
+<img src='/images/AOM_Insights_2020_jpg.jpg' style="max-width: 500px;">
 
 ### Links
 * [Academy of Management Insights Article](https://journals.aom.org/doi/epub/10.5465/amj.2018.0048.summary)
