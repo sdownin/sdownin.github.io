@@ -5,7 +5,7 @@ permalink: /research/2026-07-27-Architecture-of-Rivalry-Activity-System-Interdep
 excerpt: "<a href='/research/2026-07-27-Architecture-of-Rivalry-Activity-System-Interdependence-Competitive-Convergence'><img src='/images/CD2026_architecture_comparison_thumbnail_png.png' style='max-height:155px;'></a><br/><br/> Introducing the {K} Interdependence System &mdash; a framework unifying NK landscape theory and competitive dynamics to explain how internal activity system architecture moderates the effects of imitation on competitive convergence, shock resilience, and the imitation mirage."
 type: "Conference proceedings talk"
 venue: "4th Competitive Dynamics Conference (CD-4)"
-date: 2026-07-27
+date: 2026-03-18
 location: "Darden School of Business, University of Virginia"
 ---
 
